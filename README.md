@@ -1,6 +1,5 @@
 # Dr. Oak
 
-![Profile Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shacknews.com%2Farticle%2F108627%2Fhow-and-where-to-find-professor-oak-in-pokemon-lets-go&psig=AOvVaw2KOp51MJmSIHO9yKnChzlh&ust=1720542059725000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDG_OPsl4cDFQAAAAAdAAAAABAT))
 
 ## About Me
 
@@ -37,9 +36,9 @@ Hello! I am Dr. Oak, a Pokémon researcher dedicated to uncovering the mysteries
 Feel free to reach out to me for collaboration or inquiries!
 
 - Email: droaksdl@gmail.com
-- GitHub: [Dr. Oak](https://github.com/IAmDrOak)
+- GitHub: [Dr. Oak](https://github.com/IAmDoctorOak)
 
-To access a special research file, please check this [link] for more information.
+To access a special research file, please check this [link](https://drive.google.com/file/d/1Z7btegw8HdHxprFtNLygeOiQLLOboqc-/view?usp=drive_link) for more information.
 
 <!-- Hidden Link Method -->
-[mystery_QR1.gif]: https://example.com/research-file.pdf
+[mystery_QR1.gif]:(https://drive.google.com/file/d/1Z7btegw8HdHxprFtNLygeOiQLLOboqc-/view?usp=drive_link)
