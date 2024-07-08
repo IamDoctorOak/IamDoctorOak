@@ -28,8 +28,10 @@ Hello! I am Dr. Oak, a Pokémon researcher dedicated to uncovering the mysteries
 
 ## Publications
 
+- "Gangar Mystery" - Internation Council for Pokemon Research, 2023
 - "The Secret Lives of Pokémon: An In-Depth Study" - Journal of Pokémon Research, 2020
 - "Advancements in Poké Ball Technology" - International Pokémon Journal, 2018
+
 
 ## Contact
 
