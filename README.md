@@ -39,8 +39,6 @@ Feel free to reach out to me for collaboration or inquiries!
 - Email: droaksdl@gmail.com
 - GitHub: [Dr. Oak](https://github.com/IAmDrOak)
 
-## Hidden Link
-
 To access a special research file, please check this [link] for more information.
 
 <!-- Hidden Link Method -->
