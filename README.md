@@ -40,7 +40,7 @@ Feel free to reach out to me for collaboration or inquiries!
 - Email: droaksdl@gmail.com
 - GitHub: [Dr. Oak](https://github.com/IAmDoctorOak)
 
-To access a special research file, please check this [link](https://drive.google.com/file/d/1Z7btegw8HdHxprFtNLygeOiQLLOboqc-/view?usp=drive_link) for more information.
+To access a special research file, please check this [link](https://drive.google.com/file/d/1ic0G5EmzaX6Som-RPK8P_nsAtWgzdX-h/view?usp=sharing) for more information.
 
 <!-- Hidden Link Method -->
 [mystery_QR1.gif]:(https://drive.google.com/file/d/1Z7btegw8HdHxprFtNLygeOiQLLOboqc-/view?usp=drive_link)
